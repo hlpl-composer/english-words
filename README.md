@@ -2,11 +2,11 @@
 # hlpl_english_words
 hlpl_english_words is a database for English words lists. The package contains:  
 
-> **Adjective:**  List of all adjectives 
-> **Adverb:**  List of all adverbs   
-> **Singular Noun:**  List of all Singular Nouns
-> **Plural Noun:**  List of all Plural Nouns
-> **Article:**  List of all Articles
+> **Adjective:**  List of all adjectives  <br />
+> **Adverb:**  List of all adverbs    <br />
+> **Singular Noun:**  List of all Singular Nouns <br />
+> **Plural Noun:**  List of all Plural Nouns <br />
+> **Article:**  List of all Articles <br />
 > **Verb**  List of all Verbs 
 
 
