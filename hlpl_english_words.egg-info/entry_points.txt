@@ -1,0 +1,3 @@
+[console_scripts]
+hlpl_english_words = hlpl_english_words.__main__:main
+
